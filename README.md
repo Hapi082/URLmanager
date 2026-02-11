@@ -40,3 +40,6 @@ URL・タイトル・タグ・メモを登録し、検索/フィルタ/並び替
 
 ```bash
 pip install -r requirements.txt
+
+
+<img width="1843" height="1365" alt="image" src="https://github.com/user-attachments/assets/04d4ac48-988c-4b15-9eb7-38b269386785" />
