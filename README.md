@@ -3,6 +3,9 @@
 ExcelファイルでURLを管理できるWindows向けデスクトップアプリです。  
 URL・タイトル・タグ・メモを登録し、検索/フィルタ/並び替えで素早く参照できます。
 
+<img width="1843" height="1365" alt="スクリーンショット 2026-02-11 143216" src="https://github.com/user-attachments/assets/e1a87406-931f-4aa6-b8e5-293e7442d199" />
+
+
 ---
 
 ## 主な機能
@@ -41,5 +44,3 @@ URL・タイトル・タグ・メモを登録し、検索/フィルタ/並び替
 ```bash
 pip install -r requirements.txt
 
-
-<img width="1843" height="1365" alt="image" src="https://github.com/user-attachments/assets/04d4ac48-988c-4b15-9eb7-38b269386785" />
